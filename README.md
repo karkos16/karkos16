@@ -1,7 +1,9 @@
 # Hi 👋 I'm Karol
 
 🎓 Master's Student in **Computer Science (AI specialization)** at **Poznań University of Technology**
+
 💼 **Android Developer / AI Engineer** at Tytan
+
 📱 Interested in **mobile development**, **LLM-powered automation**, and **AI-driven applications**
 
 ---
